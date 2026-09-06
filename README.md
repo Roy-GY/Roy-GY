@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Roy-GY&label=Profile%20Visits&color=blue&style=for-the-badge)
 <a href="https://roy-gy.github.io/" target="_blank"><img src="https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=github&logoColor=white" alt="Homepage" /></a>
 <a href="mailto:chengru_wu@buaa.edu.cn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://scholar.google.com/citations?user=NI2JwKcAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 
 - 🔭 I'm currently an undergraduate student at **Beihang University** (北京航空航天大学), majoring in Computer Science and Technology.
 - 🔬 My research interests: **Code Language Models**, **Multi-Agent Code Generation**, and **Embodied Intelligence**.
